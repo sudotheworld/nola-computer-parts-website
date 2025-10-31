@@ -1,0 +1,8 @@
+https://www.mobilesentrix.com/ -O "C:\\httrack\\mobilesentrix_full" -s0 -%! -r3 -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" +*.mobilesentrix.com/* +*.mobilesentrix.ca/* -*/logout* -*/cart* -*/checkout* -*/account* -*/cdn-cgi/* -*?___store=*
+File generated automatically on Wed, 29 Oct 2025 22:56:16, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
